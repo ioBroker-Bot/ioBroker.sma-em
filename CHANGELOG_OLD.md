@@ -1,4 +1,12 @@
 # Older changes
+## 1.1.0 (2024-08-15) - 2024H2 maintenance release
+
+- (pdbjjens) Change: node>=18, js-contoller>=5 and admin>=6 required
+- (pdbjjens) Change: Removed .npmignore
+- (pdbjjens) New: Updated dependencies
+- (pdbjjens) Fix: IP family property changed from string to number in nodejs 18.0.0-18.4.0
+
+
 ## 1.0.1 (2024-01-26) - 2024 maintenance release
 
 - (pdbjjens) Updated dependencies

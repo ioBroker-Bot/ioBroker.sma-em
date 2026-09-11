@@ -101,8 +101,7 @@ In addition to the states in non-extended mode, the following values are availab
 -->
 
 ## Changelog
-
-### **WORK IN PROGRESS** - 2026H2 maintenance release
+### 1.4.0 (2026-09-11) - 2026H2 maintenance release
 
 - (copilot) Adapter requires node.js >= 22 now
 - (pdbjjens) Fixed: i18n directory migrated to short format
@@ -129,13 +128,6 @@ In addition to the states in non-extended mode, the following values are availab
 
 - (pdbjjens) Change: Migration to ESLint 9
 - (simatec) Responsive Design added
-
-### 1.1.0 (2024-08-15) - 2024H2 maintenance release
-
-- (pdbjjens) Change: node>=18, js-contoller>=5 and admin>=6 required
-- (pdbjjens) Change: Removed .npmignore
-- (pdbjjens) New: Updated dependencies
-- (pdbjjens) Fix: IP family property changed from string to number in nodejs 18.0.0-18.4.0
 
 [Older changelogs can be found there](CHANGELOG_OLD.md)
 
